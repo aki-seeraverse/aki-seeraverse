@@ -1,16 +1,22 @@
-## Hi there 👋
+# Aki Tajima
 
-<!--
-**aki-seeraverse/aki-seeraverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-native research architect at SEERAVERSE Research Initiative.
 
-Here are some ideas to get you started:
+I work on human-directed, AI-assisted research combining:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Formal verification with Lean 4
+- Mathematical proof auditing
+- AI orchestration
+- Computational certification
+- Research system architecture
+
+## Current focus
+
+**SEERAVERSE Riemann Hypothesis Formalization Program**
+
+A human-directed, AI-assisted, Lean-verified research program exploring a proposed proof architecture for the Riemann Hypothesis.
+
+## Links
+
+- Website: https://seeraverse.com
+- X: https://x.com/seeraverse
